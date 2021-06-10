@@ -10,6 +10,8 @@ You are welcome To see my projects here!!
 Please contact me through my LinkedIn for more information:
 [LinkedIn](https://www.linkedin.com/in/michelle-bastos/)
 
+![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastosmichelle848&show_icons=true&theme=radical)
+
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
