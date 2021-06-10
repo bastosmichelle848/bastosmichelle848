@@ -1,16 +1,30 @@
 ### Hi there 👋
 
+My name is Michelle and my closers call me: "Mi". 
+I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
+
+I'm passionate about new technologies and I'm graduating in Information Technology.
+
+You are welcome To see my projects here!!
+
+Please contact me through my LinkedIn for more information:
+[LinkedIn](https://www.linkedin.com/in/michelle-bastos/)
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+
 <!--
-**bastosmichelle848/bastosmichelle848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
