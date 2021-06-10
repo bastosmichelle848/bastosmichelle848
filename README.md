@@ -7,7 +7,7 @@ I'm passionate about new technologies and I'm graduating in Information Technolo
 
 You are welcome To see my projects here!!
 
-Please contact me through my LinkedIn for more information:
+Please contact me through my LinkedIn,for more information:
 [LinkedIn](https://www.linkedin.com/in/michelle-bastos/)
 
 ![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastosmichelle848&show_icons=true&theme=radical)
