@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Michelle and my closers call me: "Mi". 
-I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
+😄 My name is Michelle and my closers call me: "Mi". 
 
-I'm passionate about new technologies and I'm graduating in Information Technology.
+⚡ I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
+
+🚀 I'm passionate about new technologies and I'm graduating in Information Technology.
 
 You are welcome To see my projects here!!
 
@@ -15,7 +16,6 @@ Please contact me through my LinkedIn,for more information:
 ![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastosmichelle848&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosmichelle848&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
