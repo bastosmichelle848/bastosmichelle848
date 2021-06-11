@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there! 👋
 
 My name is Michelle and my closers call me: "Mi". 
 
