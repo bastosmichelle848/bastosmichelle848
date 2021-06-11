@@ -17,6 +17,8 @@ Please contact me through my LinkedIn,for more information:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosmichelle848&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
