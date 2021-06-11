@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 My name is Michelle and my closers call me: "Mi". 
+My name is Michelle and my closers call me: "Mi". 
 
-⚡ I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
+I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
 
 🚀 I'm passionate about new technologies and I'm graduating in Information Technology.
 
