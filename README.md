@@ -1,6 +1,6 @@
 ### Hi, there! 👋
 
-My name is Michelle and my closers call me: "Mi". 
+My name is Michelle and my nickname is "Mi"! 
 
 I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
 
