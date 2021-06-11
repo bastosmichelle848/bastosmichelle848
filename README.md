@@ -6,7 +6,7 @@ I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
 
 I'm passionate about new technologies and I'm graduating in Information Technology.
 
-       🚀 You are welcome To see my projects here!!
+       🚀 You are welcome to see my projects here!!
 
 Please contact me through my LinkedIn,for more information:
 [LinkedIn](https://www.linkedin.com/in/michelle-bastos/)
