@@ -20,6 +20,8 @@ Please contact me through my LinkedIn,for more information:
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
+  📫 How to reach me: bastosmichelle@hotmail.com
+  
   <br>
 
 <!--
