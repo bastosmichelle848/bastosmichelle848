@@ -2,7 +2,7 @@
 
 My name is Michelle and my nickname is "Mi"! 
 
-I'm currently learning about Python, C++, Java, HTML, CSS, and JavaScript.
+I'm currently learning Python, C++, Java, HTML, CSS, and JavaScript.
 
 I'm passionate about new technologies and I'm graduating in Information Technology.
 
