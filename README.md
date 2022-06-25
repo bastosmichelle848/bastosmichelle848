@@ -10,7 +10,7 @@ In my daily routines, I use looker, Amplitude, Snowflake, and other platforms to
 ![Welcome](/Welcome.png?raw=true)
 </p>
 
-📫How to reach me: <br>
+📫 How to reach me: <br>
 - E-mail: bastosmichelle@hotmail.com <br>
 - Linkedin: https://www.linkedin.com/in/michelle-bastos/
 
