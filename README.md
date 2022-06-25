@@ -7,7 +7,7 @@ In my daily routines, I use looker, Amplitude, Snowflake, and other platforms to
 
 <p align="center">
  
-![Welcome](/Welcome.png?raw=true)
+![Welcome](/Black%20Neon%20Tech.png?raw=true)
 </p>
 
 📫 How to reach me: <br>
