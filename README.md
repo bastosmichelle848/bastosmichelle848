@@ -17,11 +17,11 @@
 
 - 💬 Ask me about **SQL, Power BI and Excel**
 
-- 📫 How to reach me **bastosmichelle@hotmail.com**
+- 📫 How to reach me: **bastosmichelle@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/michelle-bastos/](https://www.linkedin.com/in/michelle-bastos/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/michelle-bastos/](https://www.linkedin.com/in/michelle-bastos/)
 
-- ⚡ Fun fact **I think I have a bad memory**
+- ⚡ Fun fact: **I think I have a bad memory**
 
 
 </p>
