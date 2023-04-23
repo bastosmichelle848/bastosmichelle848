@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliomichelle.my.canva.site/](https://portfoliomichelle.my.canva.site/)
 
-- 💬 Ask me about **SQL, Power BI, Excel**
+- 💬 Ask me about **SQL, Power BI and Excel**
 
 - 📫 How to reach me **bastosmichelle@hotmail.com**
 
