@@ -35,6 +35,7 @@
 ##  **Programming and Tools:**
 
  ####  Daily use:
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
@@ -43,17 +44,11 @@
  
  ####  Data Science and  Analytics:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
- ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- 
- 
+
 
  ####  Data Engineering:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
- ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
 
 
