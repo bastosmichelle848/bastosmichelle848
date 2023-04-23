@@ -1,18 +1,36 @@
-### Hi, there! 👋
 
+<h1 align="center">Hi 👋, I'm Michelle</h1>
+<h3 align="center">A passionate about data analytics and technology</h3>
 
-My name is Michelle and my nickname is "Mi"! 
-I'm currently working with data science and learning Python, C++, Java, HTML, CSS, and JavaScript.I'm passionate about new technologies and I'm graduating in Information Technology.
-In my daily routines, I use looker, Amplitude, Snowflake, and other platforms to extract analytics insights to the companies.
 
 <p align="center">
  
 ![Welcome](/Black%20Neon%20Tech.png?raw=true)
 </p>
 
-📫 How to reach me: <br>
-- E-mail: bastosmichelle@hotmail.com <br>
-- Linkedin: https://www.linkedin.com/in/michelle-bastos/
+
+- 🔭 I’m currently working on [Data analytics and visualizations](https://github.com/bastosmichelle848/PyGenius-BI)
+
+- 🌱 I’m currently learning **Python**
+
+- 👨‍💻 All of my projects are available at [https://portfoliomichelle.my.canva.site/](https://portfoliomichelle.my.canva.site/)
+
+- 💬 Ask me about **SQL, Power BI, Excel**
+
+- 📫 How to reach me **bastosmichelle@hotmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/michelle-bastos/](https://www.linkedin.com/in/michelle-bastos/)
+
+- ⚡ Fun fact **I think I have a bad memory**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michelle-bastos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michelle-bastos/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 ##  **Programming and Tools:**
 
@@ -50,6 +68,7 @@ In my daily routines, I use looker, Amplitude, Snowflake, and other platforms to
 <a href="https://github.com/bastosmichelle848">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosmichelle848&layout=compact&langs_count=8&theme=dark"/>
 </a>
+
 
 
 
