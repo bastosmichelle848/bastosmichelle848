@@ -13,6 +13,7 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
+##  **About my projects:**
 
 - 🔭 I’m currently working on [Data analytics and visualizations](https://github.com/bastosmichelle848/PyGenius-BI)
 
