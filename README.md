@@ -19,7 +19,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://portfoliomichelle.my.canva.site/](https://portfoliomichelle.my.canva.site/)
+- 👨‍💻 All of my projects are available at [https://portfoliomichelle.my.canva.site/](https://portfoliomichelle.my.canva.site/michellebastos)
 
 - 💬 Ask me about **SQL, Power BI and Excel**
 
