@@ -19,7 +19,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🌱 I’m currently learning **Python** 
 
-- 🤓 I am currently working on this project: https://github.com/bastosmichelle848/PyGenius-BI
+- 🤓 I’m currently working on this project: https://github.com/bastosmichelle848/PyGenius-BI
 
 - 👨‍💻 All of my projects are available at [https://portfoliomichelle.my.canva.site/](https://portfoliomichelle.my.canva.site/michellebastos)
 
