@@ -25,7 +25,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
       - [Data Engineer and analytics](https://github.com/PIunivesp2021/2022_PI-Controle-de-Estoque)<br>
 
 
-- 👨‍💻 All of my projects are available at (https://portfoliomichelle.my.canva.site/michellebastos)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://portfoliomichelle.my.canva.site/michellebastos)
 
 - 💬 Ask me about **SQL, Power BI and Excel**
 
