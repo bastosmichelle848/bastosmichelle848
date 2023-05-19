@@ -20,9 +20,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 🌱 I’m currently learning **Python** 
 
 - 🤓 These are my main projects:
-▶ [Data Engineer and analytics] https://github.com/bastosmichelle848/PyGenius-BI
-▶ [Data Engineer] https://github.com/bastosmichelle848/engdatacloudproject1
-▶ [Data Engineer and analytics] https://github.com/PIunivesp2021/2022_PI-Controle-de-Estoque
+      [Data Engineer and analytics] (https://github.com/bastosmichelle848/PyGenius-BI)
+      [Data Engineer] (https://github.com/bastosmichelle848/engdatacloudproject1)
+      [Data Engineer and analytics] (https://github.com/PIunivesp2021/2022_PI-Controle-de-Estoque)
 
 
 - 👨‍💻 All of my projects are available at (https://portfoliomichelle.my.canva.site/michellebastos)
